@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&display=swap');
+body{
+font-family:'Cormorant Garamond', sans-serif !important;	
+	padding-top:200px;
+	width:100%;
+	height:100%;
+}
+.navbar li a{
+	color:black !important;
+}
+.navbar li a:hover{
+	color:red !important;
+}
+.navbar-nav .nav-item .nav-link {
+	padding-left:30px;
+     padding-right:30px;
+}
+.fixed-top-2 {
+    margin-top: 127px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+	
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+ 
+}
+
+.dropdown-menu a {
+  color: black;
+  
+
+  display: block;
+}
+.dropdown-toggle {
+	color:black !important
+}
+.dropdown-toggle:hover{
+	color:red !important
+}
+.dropdown-menu a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-menu {display: block;}
+.navbar-text{
+	
+	font-size:30px ;
+	color:red !important;
+	margin-left: 200px;
+}
+.img-content img {
+	margin-top:30px !important ;
+}
+.brand {
+	margin-top:30px;
+}
+.list-group {
+	width:100%;
+}
+.list-group-brand {
+	width:20%;
+	height:100px;
+}
+.text-more-brand {
+	text-align: center;
+	font-size:30px ;
+	margin-top:15px;
+	  display: flex;
+  justify-content: center;
+}
+.lever-price {
+	display:block;
+	width:100%;
+	margin-top:20px
+}
+.dropprice {
+	right:0px;   
+	position: absolute;
+}
+.price-link .link-a {
+	color:rgba(0,74,240,1.00) !important
+}
+.price-link .link-a:hover{
+	color:rgba(23,143,255,1.00) !important;
+	text-decoration: none !important; 
+}
+.card-title{
+	color:rgba(239,0,4,1.00) !important;
+	text-align:center;
+}
+.card-title:hover {
+	color:rgba(255,63,66,1.00) !important;
+	cursor:pointer;
+	
+}
+.now-link {
+	margin-top:30px !important;
+}
+.now-link a {
+	font-size:20px !important;
+	color:rgba(4,76,197,1.00) !important;
+}
+.now-link a:hover{
+	color:rgba(0,155,249,1.00) !important;
+	text-decoration: none !important; 
+}
+.price-link{
+	font-size:26px;
+}
+
+.page-footer{
+	margin-top:30px;
+	background-color:rgba(0,0,0,0.80);
+}
+.text-left{
+	margin-left: 100px;
+	color:white;
+	font-size:20px;
+}
+.text-uppercase{
+	color:white;
+	font-size:20px;
+}
+.footer-copyright{
+	color:white;
+	font-size:20px;
+}
+.list-unstyled li a{
+	color:white;
+	
+}
+.footer-infor {
+	color:rgba(2,144,247,1.00);
+}
+.footer-infor:hover{
+	color:red !important
+}

@@ -1,0 +1,148 @@
+
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&display=swap');
+
+body{
+font-family:'Cormorant Garamond', sans-serif !important;	
+	padding-top:200px
+}
+
+.navbar li a{
+	color:black !important;
+}
+.navbar li a:hover{
+	color:red !important;
+}
+.navbar-nav .nav-item .nav-link {
+	padding-left:30px;
+     padding-right:30px;
+}
+.fixed-top-2 {
+    margin-top: 127px;
+}
+
+.navbar-text{
+	margin-left: 200px;
+	font-size:27px ;
+	color:red !important;
+}
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+	
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+ 
+}
+.navbar-text{
+	margin-left: 200px;
+	font-size:27px ;
+	color:red !important;
+}
+
+
+.dropdown-menu a {
+  color: black;
+  
+
+  display: block;
+}
+.dropdown-toggle {
+	color:black !important
+}
+.dropdown-toggle:hover{
+	color:red !important
+}
+.dropdown-menu a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-menu {display: block;}
+
+.cart-link{
+	color:black
+}
+.cart-link:hover{
+	color:red
+}
+
+.container a{
+	font-size:25px;
+}
+.container li {
+	font-size:25px;
+}
+.btn-outline-dark {
+
+}
+
+.page-footer{
+	background-color:rgba(0,0,0,0.80);
+}
+.navbar-text{
+	
+	font-size:30px ;
+	color:red !important;
+}
+.inf-link {
+	color:black
+}
+.inf-link:hover{
+	color:blue
+}
+.text-left{
+	margin-left: 100px;
+	color:white;
+	font-size:20px;
+}
+.text-uppercase{
+	color:white;
+	font-size:20px;
+}
+.footer-copyright{
+	color:white;
+	font-size:20px;
+}
+.list-unstyled li a{
+	color:white;
+	
+}
+.card-link{
+	color:black
+}
+.card-link:hover{
+	color:red
+}
+.footer-infor {
+	color:rgba(2,144,247,1.00);
+}
+.footer-infor:hover{
+	color:red !important
+}
+.form-inline {
+	margin-top:30px;
+}
+.btn-outline-dark{
+	background-color:rgba(174,174,174,0.90);
+	border:rgba(174,174,174,0.90);
+	border-radius:4px
+	
+}
+.btn-text:hover{
+	color:white !important
+}
+#datepicker{
+width:300px; 
+
+}
+#datepicker > span:hover{
+cursor: pointer;
+
+
+
+
+

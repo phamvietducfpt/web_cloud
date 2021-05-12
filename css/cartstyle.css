@@ -1,0 +1,159 @@
+
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&display=swap');
+
+body{
+font-family:'Cormorant Garamond', sans-serif !important;	
+	padding-top:200px
+}
+
+.navbar li a{
+	color:black !important;
+}
+.navbar li a:hover{
+	color:red !important;
+}
+.navbar-nav .nav-item .nav-link {
+	padding-left:30px;
+     padding-right:30px;
+}
+.fixed-top-2 {
+    margin-top: 127px;
+}
+.navbar-text{
+	margin-left: 200px;
+	font-size:27px ;
+	color:red !important;
+}
+
+
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+	
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+ 
+}
+
+.dropdown-menu a {
+  color: black;
+  
+
+  display: block;
+}
+.dropdown-toggle {
+	color:black !important
+}
+.dropdown-toggle:hover{
+	color:red !important
+}
+.dropdown-menu a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-menu {display: block;}
+
+
+
+
+
+.page-footer{
+	background-color:rgba(0,0,0,0.80);
+}
+.navbar-text{
+	
+	font-size:30px ;
+	color:red !important;
+}
+
+.text-left{
+	margin-left: 100px;
+	color:white;
+	font-size:20px;
+}
+.text-uppercase{
+	color:white;
+	font-size:20px;
+}
+.footer-copyright{
+	color:white;
+	font-size:20px;
+}
+.list-unstyled li a{
+	color:white;
+	
+}
+.cart-link{
+	color:black
+}
+.cart-link:hover{
+	color:red
+}
+
+.footer-infor {
+	color:rgba(2,144,247,1.00);
+}
+.footer-infor:hover{
+	color:red !important
+}
+.form-inline {
+	margin-top:30px;
+}
+@media screen and (max-width: 700px) { 
+table#cart tbody td .form-control { 
+width:20%; 
+display: inline !important;
+} 
+ 
+.actions .btn { 
+width:36%; 
+margin:1.5em 0;
+} 
+ 
+.actions .btn-info { 
+float:left;
+} 
+ 
+.actions .btn-danger { 
+float:right;
+} 
+ 
+table#cart thead {
+display: none;
+} 
+ 
+table#cart tbody td {
+display: block;
+padding: .6rem;
+min-width:320px;
+} 
+ 
+table#cart tbody tr td:first-child {
+background: #333;
+color: #fff;
+} 
+ 
+table#cart tbody td:before { 
+content: attr(data-th);
+font-weight: bold; 
+display: inline-block;
+width: 8rem;
+} 
+ 
+table#cart tfoot td {
+display:block;
+} 
+table#cart tfoot td .btn {
+display:block;
+	
+}
+	
+	
+
+
+

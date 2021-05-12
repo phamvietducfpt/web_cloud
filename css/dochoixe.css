@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.fixed-top-2 {
+    margin-top: 56px;
+}
+
+body {
+    padding-top: 105px;
+}
