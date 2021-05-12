@@ -1,1 +1,1 @@
-<?php include_once 'trangchu.php'?>
+<?php include_once 'trangchu.html'?>
