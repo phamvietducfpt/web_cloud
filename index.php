@@ -1,3 +1,1 @@
-<html>
-  <h3>Test</h3>
-  </html>
+<?php include_once 'trangchu.php'?>
