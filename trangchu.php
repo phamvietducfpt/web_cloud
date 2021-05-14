@@ -1,4 +1,3 @@
-<php include_once 'trangchu.php'?>
 <!doctype html>
 <html>
    <head>
