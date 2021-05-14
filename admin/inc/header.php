@@ -49,7 +49,7 @@ include '../lib/session.php';
                     <img src="img/livelogo.png" alt="Logo" />
 				</div>
 				<div class="floatleft middle">
-					<h1>Welcome to Admin <?php echo Session::get('adminName')?> to VIETDUCSHOP</h1>
+					<h1>Welcome to Admin <?php echo Session::get('adminName')?> to ATN Shop</h1>
 					<p>www.Shopvietduc.com</p>
 				</div>
                 <div class="floatright">
