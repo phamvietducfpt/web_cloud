@@ -24,7 +24,7 @@
             <div class="carousel-item active">
                <img class="img-responsive" src="img/heroku/hinh2.jpg" alt="Dream"width="100%" height="700">
                <div class="carousel-caption">
-                  <h3>Việt Đức Shop</h3>
+                  <h3>ATN Shop</h3>
                   <p>0769619768 <br>
                      46 Làng Tăng Phú,TNPA,Q9
                   </p>
@@ -33,7 +33,7 @@
             <div class="carousel-item">
                <img src="img/heroku/hinh3.jfif" alt="Sonic" width="100%" height="700">
                <div class="carousel-caption">
-                  <h3>Việt Đức Shop</h3>
+                  <h3>ATN Shop</h3>
                   <p>0769619768 <br>
                      46 Làng Tăng Phú,TNPA,Q9
                   </p>
@@ -42,7 +42,7 @@
             <div class="carousel-item">
                <img src="img/heroku/hinhnen.jpg"	 alt="Vario" width="100%" height="700">
                <div class="carousel-caption">
-                  <h3>Việt Đức Shop</h3>
+                  <h3>ATN Shop</h3>
                   <p>0769619768<br>
                      46 Làng Tăng Phú,TNPA,Q9
                   </p>
@@ -148,7 +148,7 @@
          <!-- đồ chơi xe -->
          <div class="card border-0" >
             <div class="card-header" style="background-color:rgba(249,6,10,0.80)">
-               Made by Việt Đức Shop
+               Made by ATN Shop
                <a href="" style="color:Yellow; float:right" >Xem tất cả</a>
             </div>
             <div class="card-body">
